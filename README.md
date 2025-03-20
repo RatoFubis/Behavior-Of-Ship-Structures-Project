@@ -1,4 +1,4 @@
-# BEMT-Based Propeller Design
+# Stability and Ship Behavior Project
 ## Overview
 This project focuses on the design and analysis of the stability and ship behavior under two different loading conditions. For this we use a simplified bulk carrier design, using industry standart average measurements.
 
